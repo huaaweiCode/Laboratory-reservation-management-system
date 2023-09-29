@@ -71,4 +71,8 @@
 ![管理员-预约管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208091333289.jpg)
 
 ![管理员-公告管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208091333579.jpg)
+### 获取方式&视频演示
 
+下方扫一下，回复关键词：实验室
+
+![gitee](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202309291447341.png)
